@@ -5,7 +5,7 @@ published: true
 ---
 
 
-![linux mint logo]({{site.baseurl}}/http://www.case-badges.com/images/linux_mint_label_1.jpg)
+![linux mint logo](http://www.case-badges.com/images/linux_mint_label_1.jpg)
 > **What happened?**
 
 > Hackers made a modified Linux Mint ISO, with a backdoor in it, and managed to hack our website to point to it.
