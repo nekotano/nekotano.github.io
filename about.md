@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a 21 years old man who loves computers and anything related to it. 
+I like write in broken English because i'm a spic, nothing more.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[soon@nekotano.me](mailto:soon@nekotano.me)
