@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 #Linux Mint Compromised by Unknown Hackers
 ![linux mint logo]({{site.baseurl}}/http://www.case-badges.com/images/linux_mint_label_1.jpg)
@@ -38,8 +39,3 @@ Made your computer a zombie and connect into IRC with a lot of others zombies co
 The best solution is reinstall the ISO and check the hash of the ISO file, anyway if you have backups that's not a big problem for deal with it. **The malware itself can't infect other files** since malware is not like Windows and can self-replicate because Linux is a very great isolated enviroment. 
 
 ###That's my first post, i hope you enjoy it.
-
-
-
-
-
