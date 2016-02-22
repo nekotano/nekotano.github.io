@@ -1,9 +1,10 @@
 ---
+layout: post
+title: "Linux Mint Compromised by Unknown Hackers"
 published: true
 ---
 
 
-#Linux Mint Compromised by Unknown Hackers
 ![linux mint logo]({{site.baseurl}}/http://www.case-badges.com/images/linux_mint_label_1.jpg)
 > **What happened?**
 
