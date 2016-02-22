@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2016-02-22-hello-world.md"
+title: "Hello World!"
 published: true
 ---
 
